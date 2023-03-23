@@ -1,6 +1,5 @@
-# ANDROID-UNIVERSAL-FORCE-DISABLE-GPU-THROTTLE
+# FORCE DISABLE GPU THROTTLE
 [MAGISK MODULE]
-=
 Force disable Android GPU throttling.
 
 Get your GPU frequency to highest all the time
