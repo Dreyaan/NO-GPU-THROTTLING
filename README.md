@@ -3,7 +3,7 @@
 Force disable Android GPU throttling.
 
 Get your GPU frequency to highest all the time
-without being throttled by the system.
+without being / getting throttled by the system.
 
 Requirements
 - Busybox / Brutal Busybox installed
