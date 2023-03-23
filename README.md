@@ -15,4 +15,4 @@ BRICKED DEVICE
 OR ANYTHING BAD HAPPENS TO YOUR DEVICE!
 - INSTALL AT YOUR OWN RISK!
 
-Recommend to use latest version of MAGISK.
+Recommend to use the latest version of MAGISK.
