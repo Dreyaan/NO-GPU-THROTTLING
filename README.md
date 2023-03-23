@@ -2,7 +2,7 @@
 [MAGISK MODULE]
 Force disable Android GPU throttling.
 
-Get your GPU frequency to highest all the time
+Set your GPU frequency to highest all the time
 without being / getting throttled by the system.
 
 Requirements
