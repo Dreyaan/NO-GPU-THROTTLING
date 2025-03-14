@@ -16,3 +16,4 @@ OR ANYTHING BAD HAPPENS TO YOUR DEVICE!
 - INSTALL AT YOUR OWN RISK!
 
 Recommend to use the latest version of MAGISK.
+leave a review
